@@ -21,7 +21,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ### Load the data
-data = pd.read_csv('index.csv')
+data = pd.read_csv('coffee_sales.csv')
 
 ### Convert 'date' to datetime format
 data['date'] = pd.to_datetime(data['date'])
