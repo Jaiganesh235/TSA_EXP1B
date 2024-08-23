@@ -1,8 +1,9 @@
 ### DEVELOPED BY: S JAIGANESH
 ### REGISTER NO: 212222240037
+### DATE: 
 
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 
+
 
 ## AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
